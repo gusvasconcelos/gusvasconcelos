@@ -1,11 +1,9 @@
 # Olá, eu sou o Gustavo Vasconcelos. 🚀
 ## Sobre mim:
-- 👦 Tenho 19 anos.
-- 📘 Estou cursando Sistemas da Informação no Centro Universitário CESMAC.
-- 💻 Atualmente estudando a Front-end básico e Java.
+- 👦 Tenho 20 anos.
+- 📘 Estou cursando Sistemas da Informação no Centro Universitário CESMAC - 4° Período.
 
 ## Conecte-se comigo:
-<a href="https://instagram.com/gusvasconcelos03" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gusvasconcelos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ## Estatísticas:
