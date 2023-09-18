@@ -1,25 +1,24 @@
-# Olá, eu sou o Gustavo Vasconcelos. 🚀
-## Sobre mim:
-- 👦 Tenho 20 anos.
-- 📘 Estou cursando Sistemas da Informação no Centro Universitário CESMAC - 4° Período.
+<h1 align="center">Hi 👋, I'm Gustavo Vasconcelos</h1>
+<h3 align="center">Passionate Backend Developer.</h3>
 
-## Conecte-se comigo:
-<a href="https://www.linkedin.com/in/gusvasconcelos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<p align="left"> <a href="https://twitter.com/vasconcelosdev" target="blank"><img src="https://img.shields.io/twitter/follow/vasconcelosdev?logo=twitter&style=for-the-badge" alt="vasconcelosdev" /></a> </p>
 
-## Estatísticas:
+- 🔭 I’m currently working on: [Todolist API](https://github.com/gusvasconcelos/todolist)
+
+- 🌱 I’m currently learning: **Build a RESTful API and Deploy on AWS using Spring Boot framework, Swagger, JWT, JUnit 5, Mockito, and Docker.**
+
+- 💬 About me: **"I am 20 years old and I am studying Information Systems."**
+
+- 📫 How to reach me: **gusvasconcelos@proton.me**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/gusvasconcelos">
-    <img
-      align="left"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=gusvasconcelos&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
-    />
-  </a>
-  <a href="https://github.com/gusvasconcelos">
-    <img
-      align="left"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusvasconcelos&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
-    />
-  </a>
+<a href="https://twitter.com/vasconcelosdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vasconcelosdev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gusvasconcelos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gusvasconcelos" height="30" width="40" /></a>
+<a href="https://instagram.com/gusvasconcelos_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gusvasconcelos_03" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gusvasconcelos&theme=dark" alt="gusvasconcelos" /></p>
