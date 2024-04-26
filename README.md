@@ -11,7 +11,7 @@
 ###
 
 - 🔭 I’m currently working on: [AcesseSeuCondominio](https://www.acesseseucondominio.com.br/)
-- 🌱 I’m currently learning: PHP with Laravel, Postgresql, TDD and Docker
+- 🌱 I’m currently learning: PHP with Laravel, Oracle DB, TDD and Docker
 - 💬 About me: "I am 20 years old and I am studying Information Systems."
 - 📫 How to reach me: gusvasconcelos@proton.me</p>
 
